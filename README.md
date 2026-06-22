@@ -1,10 +1,12 @@
 # 🛠️ Cc-Checker-MrCardChecker
 
+[![Website](https://img.shields.io/badge/Website-mrcardchecker.live-blue?style=flat&logo=google-chrome)](https://mrcardchecker.live)
+[![Telegram](https://img.shields.io/badge/Telegram-Admin_Support-0088cc?style=flat&logo=telegram)](https://t.me/mrcardcheckeradmin_new)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Kali%20Linux-red.svg)](https://www.kali.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-An advanced, lightweight Python-based Command Line Interface (CLI) web automation tool specifically designed for **Kali Linux** environments. This tool integrates seamlessly with the **MrCardChecker.live** platform to perform asynchronous web-based validations and stream results directly back to your local environment.
+An advanced, lightweight Python-based Command Line Interface (CLI) web automation tool specifically designed for **Kali Linux** environments. This tool integrates seamlessly with the **[MrCardChecker.live](https://mrcardchecker.live)** platform to perform asynchronous web-based validations and stream results directly back to your local environment.
 
 ---
 
@@ -29,7 +31,7 @@ An advanced, lightweight Python-based Command Line Interface (CLI) web automatio
 ## 🚀 Getting Started
 
 ### Prerequisites
-Make sure your system has Python 3 and the net-connect dependencies installed:
+Make sure your system has Python 3 and the necessary dependencies installed:
 
 ```bash
 pip install requests
