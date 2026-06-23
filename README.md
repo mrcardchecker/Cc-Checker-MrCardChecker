@@ -38,4 +38,7 @@ pkg update
 pkg upgrade-y
 pkg install python
 pip install requests
-
+git clone https://github.com/mrcardchecker/Cc-Checker-MrCardChecker.git
+cd Cc-Checker-MrCardChecker
+chmod +x mrcardchecker.py
+python3 mrcardchecker.py
