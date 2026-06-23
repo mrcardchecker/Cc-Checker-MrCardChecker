@@ -34,4 +34,8 @@ An advanced, lightweight Python-based Command Line Interface (CLI) web automatio
 Make sure your system has Python 3 and the necessary dependencies installed:
 
 ```bash
+pkg update
+pkg upgrade-y
+pkg install python
 pip install requests
+
